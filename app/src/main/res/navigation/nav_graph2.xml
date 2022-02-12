@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph2"
+    app:startDestination="@id/blankFragment52">
+    <fragment
+        android:id="@+id/blankFragment52"
+        android:name="com.example.a38.BlankFragment5"
+        android:label="fragment5"
+        tools:layout="@layout/fragment5" />
+</navigation>
